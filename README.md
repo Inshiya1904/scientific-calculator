@@ -21,5 +21,11 @@ A user-friendly scientific calculator built with **HTML**, **CSS**, and **JavaSc
 - **CSS3** – layout and styling
 - **Vanilla JavaScript** – calculator logic and interactivity
 
-## 📂 Project Structure
+## ▶️ How to Use
+
+1. **Download or Clone this repository:**
+
+```bash
+git clone https://github.com/your-username/scientific-calculator.git
+```
 
