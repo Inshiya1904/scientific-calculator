@@ -26,7 +26,7 @@ A user-friendly scientific calculator built with **HTML**, **CSS**, and **JavaSc
 1. **Download or Clone this repository:**
 
 ```bash
-git clone https://github.com/your-username/scientific-calculator.git
+https://github.com/Inshiya1904/scientific-calculator.git
 ```
 
 2. **Open index.html in your browser:**
