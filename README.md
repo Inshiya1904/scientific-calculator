@@ -39,6 +39,8 @@ open index.html  # or simply double-click it
 3. **Start performing calculations!**
 ```bash
 🧪 Example Operations
+50*7+50
+log(1000)
 5 + 6 × 3 =
 log(1000)
 √(25)
