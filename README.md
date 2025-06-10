@@ -29,3 +29,19 @@ A user-friendly scientific calculator built with **HTML**, **CSS**, and **JavaSc
 git clone https://github.com/your-username/scientific-calculator.git
 ```
 
+2. **Open index.html in your browser:**
+   
+```bash
+cd scientific-calculator
+open index.html  # or simply double-click it
+```
+
+3. **Start performing calculations!**
+```bash
+🧪 Example Operations
+5 + 6 × 3 =
+log(1000)
+√(25)
+π × 2
+```
+
