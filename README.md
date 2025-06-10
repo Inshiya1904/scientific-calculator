@@ -42,7 +42,6 @@ open index.html  # or simply double-click it
 50*7+50
 log(1000)
 5 + 6 × 3 =
-log(1000)
 √(25)
 π × 2
 ```
